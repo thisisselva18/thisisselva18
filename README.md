@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisisselva18
 - 👀 I’m interested in Coding, Music and Filmmaking.
-- 🌱 I’m currently learning CS50x
+- 🌱 I’m currently learning Python, Flutter & Dart
 - 📫 How to reach me: thisisselva18@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dolphins get high too.
