@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisisselva18
-- 👀 I’m interested in Coding, Music and Filmmaking.
+- 👀 I’m interested in App development, Music and Filmmaking.
 - 🌱 I’m currently learning Python, Flutter & Dart
 - 📫 How to reach me: thisisselva18@gmail.com
 - 😄 Pronouns: He/Him
